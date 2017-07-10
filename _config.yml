@@ -14,14 +14,14 @@ author: Fábio Madeira
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
+title: Bijo J Panicker's Resume
+name: Bijo J Panicker
+email: bijojohnpanicker@gmail.com
+email_full: mailto:bijojohnpanicker@gmail.com
+website: github.io/cv
+website_full: https://bijojp.github.io/
+github: https://github.com/Bijojp
+twitter: https://www.linkedin.com/in/bijojp/
 tel: +44 0000 000000
 tel_full: tel:+440000000000
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
